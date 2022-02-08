@@ -1,3 +1,4 @@
+# Solidity_Practice_Collection
 
 
 <!-- CONTRIBUTING -->
@@ -40,19 +41,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/chiru-labs/ERC721A](https://github.com/chiru-labs/ERC721A)
 
-<!-- MARKDOWN LINKS & IMAGES -->
 
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/chiru-labs/ERC721A.svg?style=for-the-badge
-[contributors-url]: https://github.com/chiru-labs/ERC721A/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/chiru-labs/ERC721A.svg?style=for-the-badge
-[forks-url]: https://github.com/chiru-labs/ERC721A/network/members
-[stars-shield]: https://img.shields.io/github/stars/chiru-labs/ERC721A.svg?style=for-the-badge
-[stars-url]: https://github.com/chiru-labs/ERC721A/stargazers
-[issues-shield]: https://img.shields.io/github/issues/chiru-labs/ERC721A.svg?style=for-the-badge
-[issues-url]: https://github.com/chiru-labs/ERC721A/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge
-[license-url]: https://github.com/chiru-labs/ERC721A/blob/main/LICENSE.txt
-[product-screenshot]: images/screenshot.png
-# ERC721A-prac
